@@ -1,1 +1,1 @@
-# c-projects
+# C Projects to learn C and programming
